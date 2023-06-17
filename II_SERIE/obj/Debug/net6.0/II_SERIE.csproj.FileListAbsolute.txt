@@ -1,0 +1,15 @@
+C:\Users\yo\Desktop\II_SERIE\obj\Debug\net6.0\II_SERIE.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\II_SERIE\obj\Debug\net6.0\II_SERIE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yo\Desktop\II_SERIE\obj\Debug\net6.0\II_SERIE.AssemblyInfoInputs.cache
+C:\Users\yo\Desktop\II_SERIE\obj\Debug\net6.0\II_SERIE.AssemblyInfo.cs
+C:\Users\yo\Desktop\II_SERIE\obj\Debug\net6.0\II_SERIE.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\II_SERIE\bin\Debug\net6.0\II_SERIE.exe
+C:\Users\yo\Desktop\II_SERIE\bin\Debug\net6.0\II_SERIE.deps.json
+C:\Users\yo\Desktop\II_SERIE\bin\Debug\net6.0\II_SERIE.runtimeconfig.json
+C:\Users\yo\Desktop\II_SERIE\bin\Debug\net6.0\II_SERIE.dll
+C:\Users\yo\Desktop\II_SERIE\bin\Debug\net6.0\II_SERIE.pdb
+C:\Users\yo\Desktop\II_SERIE\obj\Debug\net6.0\II_SERIE.dll
+C:\Users\yo\Desktop\II_SERIE\obj\Debug\net6.0\refint\II_SERIE.dll
+C:\Users\yo\Desktop\II_SERIE\obj\Debug\net6.0\II_SERIE.pdb
+C:\Users\yo\Desktop\II_SERIE\obj\Debug\net6.0\II_SERIE.genruntimeconfig.cache
+C:\Users\yo\Desktop\II_SERIE\obj\Debug\net6.0\ref\II_SERIE.dll
